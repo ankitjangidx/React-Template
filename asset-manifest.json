@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ankitjangidx/React-Template/static/css/main.5981089b.css",
+    "main.js": "/ankitjangidx/React-Template/static/js/main.22ce2d58.js",
+    "index.html": "/ankitjangidx/React-Template/index.html",
+    "main.5981089b.css.map": "/ankitjangidx/React-Template/static/css/main.5981089b.css.map",
+    "main.22ce2d58.js.map": "/ankitjangidx/React-Template/static/js/main.22ce2d58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5981089b.css",
+    "static/js/main.22ce2d58.js"
+  ]
+}
